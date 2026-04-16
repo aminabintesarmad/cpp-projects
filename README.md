@@ -9,3 +9,13 @@ Basic input/output in C++
 Conditional statements (if-else)
 Random number generation
 Simple game logic implementation
+
+Q2. Random Number Generator Game
+
+This program is a simple number-based game where the computer generates a random number, and the user tries to guess it. It helps beginners understand:
+
+Basic input/output in C++
+Conditional statements (if-else)
+Random number generation
+User interaction and guessing logic
+Simple game development concepts
